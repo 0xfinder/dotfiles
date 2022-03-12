@@ -16,3 +16,4 @@ Repository for my personal dotfiles, yes.
 - VSCode (IDE)
 - KDE Plasma (DE)
 - Neofetch (Fetcher)
+
