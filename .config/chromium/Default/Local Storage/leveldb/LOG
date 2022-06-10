@@ -1,0 +1,11 @@
+2022/06/10-12:44:32.764 3 Reusing MANIFEST /home/finder/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/06/10-12:44:32.872 3 Recovering log #134
+2022/06/10-12:44:33.230 3 Level-0 table #138: started
+2022/06/10-12:44:33.480 3 Level-0 table #138: 99374 bytes OK
+2022/06/10-12:44:33.819 3 Delete type=0 #134
+2022/06/10-12:44:54.797 3 Level-0 table #141: started
+2022/06/10-12:44:55.044 3 Level-0 table #141: 86195 bytes OK
+2022/06/10-12:44:55.187 3 Delete type=0 #139
+2022/06/10-17:30:47.461 14 Level-0 table #143: started
+2022/06/10-17:30:47.553 14 Level-0 table #143: 94624 bytes OK
+2022/06/10-17:30:47.593 14 Delete type=0 #140

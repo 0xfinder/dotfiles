@@ -1,0 +1,17 @@
+[2022-06-10 13:57:57.131] [exthost] [info] Extension host with pid 2037 started
+[2022-06-10 13:57:57.131] [exthost] [info] Skipping acquiring lock for /home/finder/.config/VSCodium/User/workspaceStorage/464cbd337fb7ed46d43947fb65e719f7.
+[2022-06-10 13:57:57.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-10 13:57:57.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-10 13:57:57.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-10 13:57:57.907] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+[2022-06-10 13:57:58.136] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2022-06-10 13:57:58.808] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-10 13:57:59.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-10 13:58:00.498] [exthost] [info] Eager extensions activated
+[2022-06-10 13:58:00.500] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:58:00.588] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 13:58:00.665] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-10 14:03:03.773] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:03:03.881] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:10:38.194] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-10 14:14:16.338] [exthost] [warning] TextEditor is closed/disposed

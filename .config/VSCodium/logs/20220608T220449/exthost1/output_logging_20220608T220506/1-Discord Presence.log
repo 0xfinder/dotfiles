@@ -1,0 +1,33 @@
+[08/06/2022 22:05:08 - INFO] Discord Presence activated
+[08/06/2022 22:05:08 - INFO] Creating discord-rpc client
+[08/06/2022 22:05:08 - ERROR] Encountered following error while trying to login:
+Error: Could not connect
+[08/06/2022 22:05:08 - DEBUG] Loading git extension
+[08/06/2022 22:05:08 - TRACE] Git extension not activated, activating...
+[08/06/2022 22:06:01 - INFO] Disable: Cleaning up old listeners
+[08/06/2022 22:06:01 - INFO] Disable: Destroyed the rpc instance
+[08/06/2022 22:06:01 - INFO] Enable: Cleaning up old listeners
+[08/06/2022 22:06:01 - INFO] Enable: Attempting to recreate login
+[08/06/2022 22:06:01 - INFO] Creating discord-rpc client
+[08/06/2022 22:06:01 - INFO] Successfully connected to Discord
+[08/06/2022 22:06:01 - TRACE] VSCode language id: ini
+[08/06/2022 22:06:48 - TRACE] VSCode language id: ini
+[08/06/2022 22:06:53 - TRACE] VSCode language id: ini
+[08/06/2022 22:06:53 - TRACE] VSCode language id: ini
+[08/06/2022 22:06:53 - TRACE] VSCode language id: ini
+[08/06/2022 22:06:53 - TRACE] VSCode language id: ini
+[08/06/2022 22:06:59 - TRACE] VSCode language id: ini
+[08/06/2022 22:07:01 - TRACE] VSCode language id: ini
+[08/06/2022 22:07:04 - TRACE] VSCode language id: ini
+[08/06/2022 22:07:06 - TRACE] VSCode language id: ini
+[08/06/2022 22:10:31 - TRACE] VSCode language id: ini
+[08/06/2022 22:10:33 - TRACE] VSCode language id: ini
+[08/06/2022 22:10:33 - TRACE] VSCode language id: ini
+[08/06/2022 22:10:35 - TRACE] VSCode language id: ini
+[08/06/2022 22:10:38 - TRACE] VSCode language id: ini
+[08/06/2022 22:10:42 - TRACE] VSCode language id: ini
+[08/06/2022 22:10:44 - TRACE] VSCode language id: ini
+[08/06/2022 22:10:45 - TRACE] VSCode language id: ini
+[08/06/2022 22:10:47 - TRACE] VSCode language id: ini
+[08/06/2022 22:11:45 - TRACE] VSCode language id: ini
+[08/06/2022 22:11:45 - TRACE] VSCode language id: ini

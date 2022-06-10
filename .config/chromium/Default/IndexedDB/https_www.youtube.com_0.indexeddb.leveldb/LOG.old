@@ -1,0 +1,9 @@
+2022/06/08-22:56:19.880 80c Reusing MANIFEST /home/finder/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/08-22:56:19.880 80c Recovering log #7
+2022/06/08-22:56:19.880 80c Reusing old log /home/finder/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2022/06/08-22:56:22.983 7e9 Compacting 1@1 + 1@2 files
+2022/06/08-22:56:23.183 7e9 Generated table #10@1: 348 keys, 36645 bytes
+2022/06/08-22:56:23.183 7e9 Compacted 1@1 + 1@2 files => 36645 bytes
+2022/06/08-22:56:23.527 7e9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/08-22:56:23.528 7e9 Delete type=2 #8
+2022/06/08-22:56:23.528 7e9 Delete type=2 #5

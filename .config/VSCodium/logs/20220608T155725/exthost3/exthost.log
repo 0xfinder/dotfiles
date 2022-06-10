@@ -1,0 +1,32 @@
+[2022-06-08 16:03:53.873] [exthost] [info] Extension host with pid 2619 started
+[2022-06-08 16:03:53.873] [exthost] [info] Skipping acquiring lock for /home/finder/.config/VSCodium/User/workspaceStorage/6b725330254321e0ad0d352ce6c50651.
+[2022-06-08 16:03:54.150] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-08 16:03:54.156] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-08 16:03:54.162] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-08 16:03:54.182] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-08 16:03:54.195] [exthost] [info] Eager extensions activated
+[2022-06-08 16:03:54.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 16:03:54.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 16:03:54.207] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 16:03:57.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-08 16:03:57.503] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+[2022-06-08 16:03:57.515] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: false, activationEvent: '*'
+[2022-06-08 16:04:26.703] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-08 16:04:26.778] [exthost] [info] Extension host with pid 2619 exiting with code 0
+[2022-06-08 16:04:29.202] [exthost] [info] Extension host with pid 2753 started
+[2022-06-08 16:04:29.202] [exthost] [info] Skipping acquiring lock for /home/finder/.config/VSCodium/User/workspaceStorage/22a15596fc9c968044df1577e0e4fa12.
+[2022-06-08 16:04:29.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-08 16:04:29.303] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-08 16:04:29.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-08 16:04:29.311] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+[2022-06-08 16:04:29.323] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2022-06-08 16:04:29.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-08 16:04:29.423] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-08 16:04:29.551] [exthost] [info] Eager extensions activated
+[2022-06-08 16:04:29.586] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 16:04:29.596] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 16:04:29.600] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 16:09:58.212] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-08 16:09:58.235] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-08 16:17:05.102] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-08 16:17:05.118] [exthost] [info] Extension host with pid 2753 exiting with code 0

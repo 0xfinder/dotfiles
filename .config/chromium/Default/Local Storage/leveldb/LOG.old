@@ -1,0 +1,18 @@
+2022/06/08-23:28:17.643 3 Reusing MANIFEST /home/finder/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/06/08-23:28:17.693 3 Recovering log #129
+2022/06/08-23:28:17.724 3 Reusing old log /home/finder/.config/chromium/Default/Local Storage/leveldb/000129.log 
+2022/06/08-23:29:35.318 3 Level-0 table #133: started
+2022/06/08-23:29:35.391 3 Level-0 table #133: 90074 bytes OK
+2022/06/08-23:29:35.437 3 Delete type=0 #129
+2022/06/08-23:30:27.387 3 Level-0 table #135: started
+2022/06/08-23:30:27.608 3 Level-0 table #135: 88451 bytes OK
+2022/06/08-23:30:27.671 3 Delete type=0 #132
+2022/06/08-23:30:27.691 3 Compacting 4@0 + 1@1 files
+2022/06/08-23:30:28.105 3 Generated table #136@0: 296 keys, 664807 bytes
+2022/06/08-23:30:28.106 3 Compacted 4@0 + 1@1 files => 664807 bytes
+2022/06/08-23:30:28.225 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/08-23:30:28.266 3 Delete type=2 #128
+2022/06/08-23:30:28.268 3 Delete type=2 #135
+2022/06/08-23:30:28.268 3 Delete type=2 #130
+2022/06/08-23:30:28.269 3 Delete type=2 #126
+2022/06/08-23:30:28.269 3 Delete type=2 #133

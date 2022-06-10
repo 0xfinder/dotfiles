@@ -1,0 +1,36 @@
+[2022-06-08 15:57:38.506] [exthost] [info] Extension host with pid 1681 started
+[2022-06-08 15:57:38.506] [exthost] [info] Skipping acquiring lock for /home/finder/.config/VSCodium/User/workspaceStorage/fa107a1c9b76916c63ef9cdf27c6f4d1.
+[2022-06-08 15:57:38.572] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:scss'
+[2022-06-08 15:57:38.914] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-08 15:57:39.063] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-08 15:57:39.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-08 15:57:39.210] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: true, activationEvent: '*'
+[2022-06-08 15:57:39.303] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: true, activationEvent: '*'
+[2022-06-08 15:57:39.523] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-08 15:57:39.633] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-08 15:57:40.175] [exthost] [info] Eager extensions activated
+[2022-06-08 15:57:40.179] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 15:57:40.222] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 15:57:40.327] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 15:57:56.703] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-08 15:57:56.751] [exthost] [info] Extension host with pid 1681 exiting with code 0
+[2022-06-08 15:57:58.969] [exthost] [info] Extension host with pid 1785 started
+[2022-06-08 15:57:58.969] [exthost] [info] Skipping acquiring lock for /home/finder/.config/VSCodium/User/workspaceStorage/c1043aff1aa1a51e3387ebce3b22585a.
+[2022-06-08 15:57:59.066] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-08 15:57:59.072] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-08 15:57:59.075] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-08 15:57:59.088] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-08 15:57:59.235] [exthost] [info] Eager extensions activated
+[2022-06-08 15:57:59.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 15:57:59.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 15:57:59.265] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-08 15:57:59.346] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-08 15:57:59.374] [exthost] [info] ExtensionService#_doActivateExtension asvetliakov.vscode-neovim, startup: false, activationEvent: '*'
+[2022-06-08 15:57:59.386] [exthost] [info] ExtensionService#_doActivateExtension icrawl.discord-vscode, startup: false, activationEvent: '*'
+[2022-06-08 15:58:11.233] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-08 15:59:23.683] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-08 16:01:12.960] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-08 16:01:12.961] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-08 16:01:50.396] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-08 16:03:55.708] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-08 16:03:55.733] [exthost] [info] Extension host with pid 1785 exiting with code 0
