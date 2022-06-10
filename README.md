@@ -16,3 +16,5 @@ Repository for my personal dotfiles, yes.
 - Bspwm (Window manager)
 - Neofetch (Fetcher)
 
+## Screenshot
+![](screenshot.png)
