@@ -1,6 +1,0 @@
-2022/06/08-12:45:38.204 5e1f Creating DB /home/finder/.config/chromium/Default/IndexedDB/https_www.color-hex.com_0.indexeddb.leveldb since it was missing.
-2022/06/08-12:45:38.345 5e1f Reusing MANIFEST /home/finder/.config/chromium/Default/IndexedDB/https_www.color-hex.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/06/08-12:45:42.106 5e1f Level-0 table #5: started
-2022/06/08-12:45:42.172 5e1f Level-0 table #5: 357 bytes OK
-2022/06/08-12:45:42.222 5e1f Delete type=0 #3
-2022/06/08-12:45:42.223 5e1f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
