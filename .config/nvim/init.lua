@@ -1,0 +1,11 @@
+require('plugins')
+require('keybindings')
+require('options')
+vim.cmd[[colorscheme tokyonight]]
+require('treesitter-config')
+require('presence-config')
+require('autopairs-config')
+require('lualine-config')
+require('nvim-tree-config')
+require('bufferline-config')
+require('whichkey-config')
