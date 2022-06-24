@@ -22,9 +22,13 @@ return require('packer').startup(function()
   use {'p00f/nvim-ts-rainbow'}
   use {'windwp/nvim-autopairs'}
   use 'folke/which-key.nvim'
-  use { 'ibhagwan/fzf-lua',
-    requires = { 'kyazdani42/nvim-web-devicons' }
-  } 
-  use { 'junegunn/fzf', run = './install --bin' }
+  -- use { 'ibhagwan/fzf-lua',
+    -- requires = { 'kyazdani42/nvim-web-devicons' }
+  -- } 
+  -- use { 'junegunn/fzf', run = './install --bin' }
+  use {
+    'nvim-telescope/telescope.nvim',
+    requires = { {'nvim-lua/plenary.nvim'} }
+  }
   use 'andweeb/presence.nvim'
 end)

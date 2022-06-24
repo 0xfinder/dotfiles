@@ -74,16 +74,6 @@ _G.packer_plugins = {
     path = "/home/finder/.local/share/nvim/site/pack/packer/start/bufferline.nvim",
     url = "https://github.com/akinsho/bufferline.nvim"
   },
-  fzf = {
-    loaded = true,
-    path = "/home/finder/.local/share/nvim/site/pack/packer/start/fzf",
-    url = "https://github.com/junegunn/fzf"
-  },
-  ["fzf-lua"] = {
-    loaded = true,
-    path = "/home/finder/.local/share/nvim/site/pack/packer/start/fzf-lua",
-    url = "https://github.com/ibhagwan/fzf-lua"
-  },
   ["lualine.nvim"] = {
     loaded = true,
     path = "/home/finder/.local/share/nvim/site/pack/packer/start/lualine.nvim",
@@ -124,10 +114,20 @@ _G.packer_plugins = {
     path = "/home/finder/.local/share/nvim/site/pack/packer/start/packer.nvim",
     url = "https://github.com/wbthomason/packer.nvim"
   },
+  ["plenary.nvim"] = {
+    loaded = true,
+    path = "/home/finder/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+    url = "https://github.com/nvim-lua/plenary.nvim"
+  },
   ["presence.nvim"] = {
     loaded = true,
     path = "/home/finder/.local/share/nvim/site/pack/packer/start/presence.nvim",
     url = "https://github.com/andweeb/presence.nvim"
+  },
+  ["telescope.nvim"] = {
+    loaded = true,
+    path = "/home/finder/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+    url = "https://github.com/nvim-telescope/telescope.nvim"
   },
   ["tokyonight.nvim"] = {
     loaded = true,
