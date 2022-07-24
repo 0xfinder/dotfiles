@@ -1,4 +1,5 @@
 vim.cmd('filetype plugin indent on')
+vim.o.shortmess = vim.o.shortmess .. 'c'
 vim.o.hidden = true
 vim.o.whichwrap = 'b,s,<,>,[,],h,l'
 vim.o.pumheight = 10
@@ -9,7 +10,7 @@ vim.o.splitright = true
 vim.opt.termguicolors = true
 vim.o.conceallevel = 0
 vim.o.showtabline = 2
--- vim.o.showmode = false
+vim.o.showmode = false
 vim.o.backup = false
 vim.o.writebackup = false
 vim.o.updatetime = 300
@@ -19,22 +20,14 @@ vim.o.hlsearch = false
 vim.o.ignorecase = true
 vim.o.scrolloff = 3
 vim.o.sidescrolloff = 5
-vim.o.mouse = "a"
--- disable line wrapping
 vim.wo.wrap = false
-
--- enable line numbers
 vim.wo.number = true
-
--- highlight current line
+vim.wo.relativenumber = true
 vim.o.cursorline = true
-
--- errors
-vim.o.signcolumn = "yes"
-
--- max tabs
--- vim.o.tabstop = 2
-
+vim.wo.signcolumn = "yes"
+vim.o.tabstop = 2
+vim.bo.tabstop = 2
+vim.o.softtabstop = 2
 vim.o.shiftwidth = 2
 vim.bo.shiftwidth = 2
 vim.o.autoindent = true
