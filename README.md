@@ -6,6 +6,7 @@ Repository for my personal dotfiles
 
 - Kitty (Terminal)
 - Fish (Shell)
+- Starship (Prompt)
 - Neovim (Editor)
 - Zed (IDE)
 - Neofetch (Fetcher)
